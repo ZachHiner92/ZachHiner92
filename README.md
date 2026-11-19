@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22ZachHiner92%22%2C%22name%22%3A%22Zachary%20Hiner%22%2C%22email%22%3A%22zachhiner92%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22Foundational%20Skills%20for%20IT%20Professionals%22%2C%22issuer%22%3A%22MyComputerCareer%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2FZachHiner92%2Fmycc-certificates%2Fblob%2Fmain%2FNet%2520I%2520CoC%252011.2026%2520132.pdf%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22ZachHiner92%22%2C%22name%22%3A%22Zachary%20Hiner%22%2C%22email%22%3A%22zachhiner92%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22Foundational%20Skills%20for%20IT%20Professionals%22%2C%22issuer%22%3A%22MyComputerCareer%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2FZachHiner92%2Fmycc-certificates%2Fblob%2Fmain%2FNet%2520I%2520CoC%252011.2026%2520132.pdf%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%7B%22name%22%3A%22Generate%20Insights%20from%20Images%20by%20Using%20Azure%20AI%20Vision%20Services%22%2C%22desc%22%3A%22Explore%20how%20to%20generate%20image%20captions%20by%20using%20Azure%20AI%20Vision%20Services%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -48,7 +48,9 @@
 <details>
 <summary><strong>Course 2: Computer & Security Essentials</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Generate Insights from Images by Using Azure AI Vision Services | Explore how to generate image captions by using Azure AI Vision Services | ✅ Complete | — |
 
 </details>
 
